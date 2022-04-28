@@ -1,2 +1,2 @@
 # java-exercism
-Solving Java Exercism Problems.
+Solving Java Exercism Problems
